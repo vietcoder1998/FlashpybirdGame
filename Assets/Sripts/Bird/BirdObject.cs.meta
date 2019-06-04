@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1264b29732960934583fe17b6e7ca8b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - possition: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - flyClip: {fileID: 8300000, guid: 2fddfc7a46b587246a5289017214d6d4, type: 3}
+  - pingClip: {fileID: 8300000, guid: e7c334d004365ab46848b30e64412d2f, type: 3}
+  - diedClip: {fileID: 8300000, guid: 661f7d9429505e94dbbc3621c4c11efe, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
